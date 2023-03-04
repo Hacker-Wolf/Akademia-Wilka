@@ -9,4 +9,16 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\JS\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\JS\ModeSwitcher.js" />
+    <Content Remove="wwwroot\JS\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\JS\ModeSwitcher.js" />
+  </ItemGroup>
 </Project>
