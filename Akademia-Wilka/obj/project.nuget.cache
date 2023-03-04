@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7lBIMLY5szWS6okULtTACtvTJNNLYahGD2oCpW/wuYnyVRfVup2sWvvLmJ7SgZhKHRcJ/Uwm3y0sSntEBbmkA==",
+  "dgSpecHash": "D/Rn5gr7vHbY8iOgojp3obfm552SQuwj1YXzYXD3QqKj6frzrOtzw/+Kl+qp4Tp5xPjy6BM+8WvB4/pFCH1lrQ==",
   "success": true,
   "projectFilePath": "/Volumes/Workspace/Repositories/Akademia-Wilka/Akademia-Wilka/Akademia-Wilka.csproj",
-  "expectedPackageFiles": [
-    "/Users/alex/.nuget/packages/bootstrap.sass/5.2.3/bootstrap.sass.5.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
