@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7lBIMLY5szWS6okULtTACtvTJNNLYahGD2oCpW/wuYnyVRfVup2sWvvLmJ7SgZhKHRcJ/Uwm3y0sSntEBbmkA==",
+  "success": true,
+  "projectFilePath": "/Volumes/Workspace/Repositories/Akademia-Wilka/Akademia-Wilka/Akademia-Wilka.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex/.nuget/packages/bootstrap.sass/5.2.3/bootstrap.sass.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

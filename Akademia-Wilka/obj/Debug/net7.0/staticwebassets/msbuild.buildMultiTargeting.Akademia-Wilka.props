@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Akademia-Wilka.props" />
+</Project>
